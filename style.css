@@ -89,7 +89,7 @@ img {
 
 .intro {
     background: url("./img/bg-intro.jpg") no-repeat center center;
-    background: #000;
+    
     background-size: cover;
     padding: 150px 0;
     text-align: center;
